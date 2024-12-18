@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/assets/images/inner/team-inner2.png",  
+    "title": "Fayz Sarfraz",
+    "desc": "Back-end Developer"
+  },
+  {
+    "img": "/assets/images/inner/team-inner2.png",  
+    "title": "Danish Irfan",
+    "desc": "back-end Developer"
+  },
+  {
+    "img": "/assets/images/inner/team-inner2.png",  
+    "title": "Mahmood Ahmad",
+    "desc": "Front-end Developer"
+  },
+ 
+  {
+    "img": "/assets/images/inner/team-inner2.png",  
+    "title": "Ahmad Sameer",
+    "desc": "UI/UX DESIGNER"
+  }
+]
